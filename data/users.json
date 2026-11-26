@@ -1,0 +1,26 @@
+[
+  {
+    "id": "64aabbca-3bbd-4057-be4f-c99fa6ab1d9c",
+    "username": "Sahid Afridhi",
+    "email": "sahidafridhi2006@gmail.com",
+    "passwordHash": "$2b$12$DYKwDHYpZDYvs1DX.bfZMO7zBLRfg9lPlblwOKXMTyd.eiysClmY6",
+    "role": "user",
+    "createdAt": "2026-11-25T17:16:00.992Z"
+  },
+  {
+    "id": "ea3c4775-0178-4685-8016-baeface0dc59",
+    "username": "isdhvidhics",
+    "email": "clsacknjn@gmail.com",
+    "passwordHash": "$2b$12$cCcflTbpHiQeNIzzi0i7..oTiniqWDw/3LXQuVawhwL31gXQtcYle",
+    "role": "user",
+    "createdAt": "2026-11-25T17:21:09.108Z"
+  },
+  {
+    "id": "97939ee2-1157-4241-9f99-8e5ff7dbf4a9",
+    "username": "Rohan",
+    "email": "kshjhhscjhjd@gmail.com",
+    "passwordHash": "$2b$12$gA4y2l3E9ICJg8DvZ0iN0OldcELoz281U9ofs1B6o.6a3UGsOOQm2",
+    "role": "user",
+    "createdAt": "2026-11-25T17:40:52.992Z"
+  }
+]
